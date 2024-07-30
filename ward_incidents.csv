@@ -1,0 +1,9 @@
+major_category,minor_category,id,:LABEL
+Burglary,Burglary Business and Community,Burglary_Burglary Business and Community,CrimeIncident
+Robbery,Robbery of Personal Property,Robbery_Robbery of Personal Property,CrimeIncident
+Theft,Bicycle Theft,Theft_Bicycle Theft,CrimeIncident
+Theft,Theft from Person,Theft_Theft from Person,CrimeIncident
+Burglary,Domestic Burglary,Burglary_Domestic Burglary,CrimeIncident
+Robbery,Robbery of Business Property,Robbery_Robbery of Business Property,CrimeIncident
+Theft,Other Theft,Theft_Other Theft,CrimeIncident
+Theft,Shoplifting,Theft_Shoplifting,CrimeIncident

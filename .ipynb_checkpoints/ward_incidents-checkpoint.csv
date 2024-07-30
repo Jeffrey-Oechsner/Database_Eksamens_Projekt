@@ -1,0 +1,57 @@
+major_text,minor_text,id,:LABEL
+Arson and Criminal Damage,Criminal Damage,Arson and Criminal Damage_Criminal Damage,CrimeIncident
+Miscellaneous Crimes Against Society,Other Notifiable Offences,Miscellaneous Crimes Against Society_Other Notifiable Offences,CrimeIncident
+Theft,Other Theft,Theft_Other Theft,CrimeIncident
+Theft,Shoplifting,Theft_Shoplifting,CrimeIncident
+Vehicle Offences,Theft from a Motor Vehicle,Vehicle Offences_Theft from a Motor Vehicle,CrimeIncident
+Violence Against the Person,Violence with Injury,Violence Against the Person_Violence with Injury,CrimeIncident
+Violence Against the Person,Violence without Injury,Violence Against the Person_Violence without Injury,CrimeIncident
+Arson and Criminal Damage,Arson,Arson and Criminal Damage_Arson,CrimeIncident
+Burglary,Burglary Business and Community,Burglary_Burglary Business and Community,CrimeIncident
+Burglary,Domestic Burglary,Burglary_Domestic Burglary,CrimeIncident
+Drug Offences,Drug Trafficking,Drug Offences_Drug Trafficking,CrimeIncident
+Drug Offences,Possession of Drugs,Drug Offences_Possession of Drugs,CrimeIncident
+Historical Fraud and Forgery,Historical Fraud and Forgery,Historical Fraud and Forgery_Historical Fraud and Forgery,CrimeIncident
+Miscellaneous Crimes Against Society,Bigamy,Miscellaneous Crimes Against Society_Bigamy,CrimeIncident
+Miscellaneous Crimes Against Society,Dangerous Driving,Miscellaneous Crimes Against Society_Dangerous Driving,CrimeIncident
+Miscellaneous Crimes Against Society,Exploitation of Prostitution,Miscellaneous Crimes Against Society_Exploitation of Prostitution,CrimeIncident
+Miscellaneous Crimes Against Society,Forgery or Use of Drug Prescription,Miscellaneous Crimes Against Society_Forgery or Use of Drug Prescription,CrimeIncident
+Miscellaneous Crimes Against Society,Fraud or Forgery Associated with Driver Records,Miscellaneous Crimes Against Society_Fraud or Forgery Associated with Driver Records,CrimeIncident
+Miscellaneous Crimes Against Society,Going Equipped for Stealing,Miscellaneous Crimes Against Society_Going Equipped for Stealing,CrimeIncident
+Miscellaneous Crimes Against Society,Handling Stolen Goods,Miscellaneous Crimes Against Society_Handling Stolen Goods,CrimeIncident
+Miscellaneous Crimes Against Society,"Making, Supplying or Possessing Articles for use i","Miscellaneous Crimes Against Society_Making, Supplying or Possessing Articles for use i",CrimeIncident
+Miscellaneous Crimes Against Society,Obscene Publications,Miscellaneous Crimes Against Society_Obscene Publications,CrimeIncident
+Miscellaneous Crimes Against Society,Other Forgery,Miscellaneous Crimes Against Society_Other Forgery,CrimeIncident
+Miscellaneous Crimes Against Society,Perjury,Miscellaneous Crimes Against Society_Perjury,CrimeIncident
+Miscellaneous Crimes Against Society,Perverting Course of Justice,Miscellaneous Crimes Against Society_Perverting Course of Justice,CrimeIncident
+Miscellaneous Crimes Against Society,Possession of False Documents,Miscellaneous Crimes Against Society_Possession of False Documents,CrimeIncident
+Miscellaneous Crimes Against Society,Profitting From or Concealing Proceeds of Crime,Miscellaneous Crimes Against Society_Profitting From or Concealing Proceeds of Crime,CrimeIncident
+Miscellaneous Crimes Against Society,Threat or Possession With Intent to Commit Crimina,Miscellaneous Crimes Against Society_Threat or Possession With Intent to Commit Crimina,CrimeIncident
+Possession of Weapons,Possession of Article with Blade or Point,Possession of Weapons_Possession of Article with Blade or Point,CrimeIncident
+Possession of Weapons,Possession of Firearm with Intent,Possession of Weapons_Possession of Firearm with Intent,CrimeIncident
+Possession of Weapons,Possession of Firearms Offences,Possession of Weapons_Possession of Firearms Offences,CrimeIncident
+Possession of Weapons,Possession of Other Weapon,Possession of Weapons_Possession of Other Weapon,CrimeIncident
+Public Order Offences,"Other Offences Against the State, or Public Order","Public Order Offences_Other Offences Against the State, or Public Order",CrimeIncident
+Public Order Offences,Public Fear Alarm or Distress,Public Order Offences_Public Fear Alarm or Distress,CrimeIncident
+Public Order Offences,"Racially or Religiously Aggravated Public Fear, Al","Public Order Offences_Racially or Religiously Aggravated Public Fear, Al",CrimeIncident
+Public Order Offences,Violent Disorder,Public Order Offences_Violent Disorder,CrimeIncident
+Robbery,Robbery of Business Property,Robbery_Robbery of Business Property,CrimeIncident
+Robbery,Robbery of Personal Property,Robbery_Robbery of Personal Property,CrimeIncident
+Sexual Offences,Other Sexual Offences,Sexual Offences_Other Sexual Offences,CrimeIncident
+Sexual Offences,Rape,Sexual Offences_Rape,CrimeIncident
+Theft,Bicycle Theft,Theft_Bicycle Theft,CrimeIncident
+Theft,Theft from Person,Theft_Theft from Person,CrimeIncident
+Vehicle Offences,Aggravated Vehicle Taking,Vehicle Offences_Aggravated Vehicle Taking,CrimeIncident
+Vehicle Offences,Interfering with a Motor Vehicle,Vehicle Offences_Interfering with a Motor Vehicle,CrimeIncident
+Vehicle Offences,Theft or Taking of a Motor Vehicle,Vehicle Offences_Theft or Taking of a Motor Vehicle,CrimeIncident
+Violence Against the Person,Homicide,Violence Against the Person_Homicide,CrimeIncident
+Miscellaneous Crimes Against Society,Bail Offences,Miscellaneous Crimes Against Society_Bail Offences,CrimeIncident
+Miscellaneous Crimes Against Society,"Disclosure, Obstruction, False or Misleading State","Miscellaneous Crimes Against Society_Disclosure, Obstruction, False or Misleading State",CrimeIncident
+Possession of Weapons,Other Firearm Offences,Possession of Weapons_Other Firearm Offences,CrimeIncident
+Miscellaneous Crimes Against Society,Wildlife Crime,Miscellaneous Crimes Against Society_Wildlife Crime,CrimeIncident
+Miscellaneous Crimes Against Society,Absconding from Lawful Custody,Miscellaneous Crimes Against Society_Absconding from Lawful Custody,CrimeIncident
+Miscellaneous Crimes Against Society,Soliciting for Prostitution,Miscellaneous Crimes Against Society_Soliciting for Prostitution,CrimeIncident
+Miscellaneous Crimes Against Society,Offender Management Act,Miscellaneous Crimes Against Society_Offender Management Act,CrimeIncident
+Possession of Weapons,Other Knife Offences,Possession of Weapons_Other Knife Offences,CrimeIncident
+Miscellaneous Crimes Against Society,Concealing an Infant Death Close to Birth,Miscellaneous Crimes Against Society_Concealing an Infant Death Close to Birth,CrimeIncident
+Miscellaneous Crimes Against Society,Aiding Suicide,Miscellaneous Crimes Against Society_Aiding Suicide,CrimeIncident

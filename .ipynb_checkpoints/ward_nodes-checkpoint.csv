@@ -1,0 +1,549 @@
+code,name,:LABEL
+E05011243,Fullwell,Ward
+E05013805,Regent's Park,Ward
+E05013747,Sands End,Ward
+E05013929,Berrylands,Ward
+E05013543,Canons,Ward
+E05009380,Lea Bridge,Ward
+E05011104,London Bridge & West Bermondsey,Ward
+E05013577,Ruislip,Ward
+E05013659,Hampstead Town,Ward
+E05014103,Gipsy Hill,Ward
+E05011481,Selsdon Vale & Forestdale,Ward
+E05013920,Plaistow West & Canning Town East,Ward
+E05014114,Streatham Hill West & Thornton,Ward
+E05013744,Palace & Hurlingham,Ward
+E05013513,Welsh Harp,Ward
+E05014016,Northcote,Ward
+E05013759,Hackbridge,Ward
+E05013509,Roundwood,Ward
+E05013883,Cathall,Ward
+E05013736,College Park & Old Oak,Ward
+E05013884,Chapel End,Ward
+E05013806,St James's,Ward
+E05013989,Biggin Hill,Ward
+E05013725,Ladywell,Ward
+E05014053,Abbey,Ward
+E05013627,Syon & Brentford Lock,Ward
+E05013634,Cricklewood,Ward
+E05013529,North Hanwell,Ward
+E05014021,Southfields,Ward
+E05009387,Woodberry Down,Ward
+E05013907,Canning Town South,Ward
+E05013905,Boleyn,Ward
+E05013820,Merton Park,Ward
+E05013724,Hither Green,Ward
+E05013597,St Ann's,Ward
+E05013654,Camden Square,Ward
+E05013662,Holborn & Covent Garden,Ward
+E05013971,Gooshays,Ward
+E05013551,Kenton East,Ward
+E05013792,Abbey Road,Ward
+E05013524,Hanger Hill,Ward
+E05013783,Mortlake & Barnes Common,Ward
+E05013711,St Peter's & Canalside,Ward
+E05009396,Golborne,Ward
+E05014003,Petts Wood & Knoll,Ward
+E05013540,Southfield,Ward
+E05013801,Marylebone,Ward
+E05013772,Worcester Park North,Ward
+E05013669,St Pancras & Somers Town,Ward
+E05013559,Roxeth,Ward
+E05011488,West Thornton,Ward
+E05013752,White City,Ward
+E05013814,Figge's Marsh,Ward
+E05013798,Lancaster Gate,Ward
+E05013549,Hatch End,Ward
+E05013624,Hounslow West,Ward
+E05013902,William Morris,Ward
+E05014066,Northbury,Ward
+E05011227,Longlands,Ward
+E05014057,Becontree,Ward
+E05014002,Penge & Cator,Ward
+E05013511,Sudbury,Ward
+E05009405,Stanley,Ward
+E05009328,Poplar,Ward
+E05013576,Pinkwell,Ward
+E05013503,Kilburn,Ward
+E05013562,Wealdstone South,Ward
+E05014023,Tooting Bec,Ward
+E05013900,Upper Walthamstow,Ward
+E05013777,"Ham, Petersham & Richmond Riverside",Ward
+E05011486,Thornton Heath,Ward
+E05014100,Clapham East,Ward
+E05013623,Hounslow South,Ward
+E05013635,East Barnet,Ward
+E05009330,St Katharine's & Wapping,Ward
+E05013979,Rainham & Wennington,Ward
+E05009381,London Fields,Ward
+E05013757,Carshalton South & Clockhouse,Ward
+E05011249,Monkhams,Ward
+E05013895,Lea Bridge,Ward
+E05013898,Markhouse,Ward
+E05014115,Streatham St Leonard's,Ward
+E05013827,West Barnes,Ward
+E05013892,Higham Hill,Ward
+E05014006,St Mary Cray,Ward
+E05013912,Forest Gate South,Ward
+E05011224,East Wickham,Ward
+E05013555,Pinner,Ward
+E05013750,Wendell Park,Ward
+E05014098,Brixton Windrush,Ward
+E05013941,Norbiton,Ward
+E05013991,Bromley Town,Ward
+E05013631,Childs Hill,Ward
+E05013598,Seven Sisters,Ward
+E05013946,Tudor,Ward
+E05014010,Battersea Park,Ward
+E05013742,Lillie,Ward
+E05013687,Oakwood,Ward
+E05013990,Bromley Common & Holwood,Ward
+E05013586,Bounds Green,Ward
+E05014069,Valence,Ward
+E05013684,Jubilee,Ward
+E05009398,Norland,Ward
+E05013828,Wimbledon Park,Ward
+E05013656,Fortune Green,Ward
+E05009394,Dalgarno,Ward
+E05013570,Heathrow Villages,Ward
+E05013665,Kilburn,Ward
+E05013816,Hillside,Ward
+E05009329,St Dunstan's,Ward
+E05013923,Royal Victoria,Ward
+E05013716,Brockley,Ward
+E05013553,Marlborough,Ward
+E05011253,Valentines,Ward
+E05013636,East Finchley,Ward
+E05009375,Haggerston,Ward
+E05011234,Aldborough,Ward
+E05011489,Woodside,Ward
+E05014007,St Paul's Cray,Ward
+E05013580,Uxbridge,Ward
+E05011109,Old Kent Road,Ward
+E05011232,Thamesmead East,Ward
+E05013904,Beckton,Ward
+E05013729,Perry Vale,Ward
+E05013685,Lower Edmonton,Ward
+E05013889,Hale End & Highams Park South,Ward
+E05013701,Canonbury,Ward
+E05013899,St James,Ward
+E05013931,Chessington South & Malden Rushett,Ward
+E05013810,Abbey,Ward
+E05013626,Osterley & Spring Grove,Ward
+E05011242,Fairlop,Ward
+E05013593,Hornsey,Ward
+E05014004,Plaistow,Ward
+E05013733,Addison,Ward
+E05013617,Heston Central,Ward
+E05013650,Whetstone,Ward
+E05013987,Beckenham Town & Copers Cope,Ward
+E05013571,Hillingdon East,Ward
+E05013887,Forest,Ward
+E05011240,Clementswood,Ward
+E05013554,North Harrow,Ward
+E05011472,Norbury & Pollards Hill,Ward
+E05013804,Queen's Park,Ward
+E05014060,Eastbury,Ward
+E05011235,Barkingside,Ward
+E05013996,Darwin,Ward
+E05013661,Highgate,Ward
+E05009395,Earl's Court,Ward
+E05011218,Belvedere,Ward
+E05011484,South Croydon,Ward
+E05013600,Stroud Green,Ward
+E05011230,Sidcup,Ward
+E05013642,Golders Green,Ward
+E05013974,Havering-atte-Bower,Ward
+E05014008,West Wickham,Ward
+E05013901,Valley,Ward
+E05013782,Kew,Ward
+E05011099,Dulwich Hill,Ward
+E05013591,Hermitage & Gardens,Ward
+E05014011,East Putney,Ward
+E05014087,Plumstead & Glyndon,Ward
+E05013667,Primrose Hill,Ward
+E05013502,Kenton,Ward
+E05013655,Camden Town,Ward
+E05013992,Chelsfield,Ward
+E05013547,Harrow on the Hill,Ward
+E05013993,Chislehurst,Ward
+E05013984,South Hornchurch,Ward
+E05013714,Bellingham,Ward
+E05011100,Dulwich Village,Ward
+E05011111,Peckham Rye,Ward
+E05013517,Willesden Green,Ward
+E05013721,Evelyn,Ward
+E05013743,Munster,Ward
+E05013574,Northwood,Ward
+E05014113,Streatham Hill East,Ward
+E05013985,Squirrels Heath,Ward
+E05013594,Muswell Hill,Ward
+E05013925,Stratford Olympic Park,Ward
+E05009378,Hoxton West,Ward
+E05011233,West Heath,Ward
+E05013658,Gospel Oak,Ward
+E05013647,Underhill,Ward
+E05013522,East Acton,Ward
+E05013788,Teddington,Ward
+E05014089,Shooters Hill,Ward
+E05009393,Courtfield,Ward
+E05011478,Sanderstead,Ward
+E05013916,Manor Park,Ward
+E05013637,Edgware,Ward
+E05013558,Roxbourne,Ward
+E05013697,Arsenal,Ward
+E05014056,Beam,Ward
+E05011223,Crook Log,Ward
+E05011098,Chaucer,Ward
+E05013612,Cranford,Ward
+E05013983,St Edward's,Ward
+E05014061,Gascoigne,Ward
+E05013765,Sutton Central,Ward
+E05013628,Barnet Vale,Ward
+E05013786,South Richmond,Ward
+E05013726,Lee Green,Ward
+E05013775,East Sheen,Ward
+E05013824,St Helier,Ward
+E05013802,Pimlico North,Ward
+E05009333,Spitalfields & Banglatown,Ward
+E05013722,Forest Hill,Ward
+E05014108,Oval,Ward
+E05013707,Junction,Ward
+E05013704,Highbury,Ward
+E05014000,Mottingham,Ward
+E05013633,Colindale South,Ward
+E05013510,Stonebridge,Ward
+E05014022,Thamesfield,Ward
+E05013891,High Street,Ward
+E05013771,Wallington South,Ward
+E05013530,Northfield,Ward
+E05013969,Elm Park,Ward
+E05014099,Clapham Common & Abbeville,Ward
+E05013569,Hayes Town,Ward
+E05013584,Yiewsley,Ward
+E05013683,Highfield,Ward
+E05011238,Churchfields,Ward
+E05013692,Southgate,Ward
+E05013933,Coombe Vale,Ward
+E05011114,St George's,Ward
+E05013994,Clock House,Ward
+E05013978,Mawneys,Ward
+E05013821,Pollards Hill,Ward
+E05013668,Regent's Park,Ward
+E05009323,Canary Wharf,Ward
+E05013970,Emerson Park,Ward
+E05009401,Queen's Gate,Ward
+E05013973,Harold Wood,Ward
+E05013935,Hook & Chessington North,Ward
+E05013660,Haverstock,Ward
+E05013595,Noel Park,Ward
+E05013807,Vincent Square,Ward
+E05014074,Charlton Hornfair,Ward
+E05009331,St Peter's,Ward
+E05013556,Pinner South,Ward
+E05014005,Shortlands & Park Langley,Ward
+E05013609,Chiswick Gunnersbury,Ward
+E05013999,Kelsey & Eden Park,Ward
+E05011221,Blendon & Penhill,Ward
+E05013913,Green Street East,Ward
+E05009335,Weavers,Ward
+E05014026,Wandle,Ward
+E05013710,St Mary's & St James',Ward
+E05013938,Kingston Town,Ward
+E05013698,Barnsbury,Ward
+E05009388,Abingdon,Ward
+E05013739,Fulham Town,Ward
+E05014110,Stockwell East,Ward
+E05013601,Tottenham Central,Ward
+E05013546,Greenhill,Ward
+E05013787,South Twickenham,Ward
+E05013928,Alexandra,Ward
+E05013618,Heston East,Ward
+E05011117,Surrey Docks,Ward
+E05011487,Waddon,Ward
+E05009376,Homerton,Ward
+E05013680,Enfield Lock,Ward
+E05013508,Queensbury,Ward
+E05013779,Hampton North,Ward
+E05013767,Sutton South,Ward
+E05013550,Headstone,Ward
+E05011480,Selsdon & Addington Village,Ward
+E05009324,Island Gardens,Ward
+E05014118,Waterloo & South Bank,Ward
+E05013561,Wealdstone North,Ward
+E05013649,West Hendon,Ward
+E05011463,Addiscombe West,Ward
+E05011475,Park Hill & Whitgift,Ward
+E05013927,West Ham,Ward
+E05014077,Eltham Page,Ward
+E05014063,Heath,Ward
+E05013512,Tokyngton,Ward
+E05013780,Hampton Wick & South Teddington,Ward
+E05011248,Mayfield,Ward
+E05011255,Wanstead Village,Ward
+E05011222,Crayford,Ward
+E05013552,Kenton West,Ward
+E05011107,North Walworth,Ward
+E05009385,Stoke Newington,Ward
+E05014076,East Greenwich,Ward
+E05011229,St Mary's & St James,Ward
+E05011468,Fairfield,Ward
+E05011469,Kenley,Ward
+E05013525,Hanwell Broadway,Ward
+E05009334,Stepney Green,Ward
+E05013980,Rush Green & Crowlands,Ward
+E05013936,King George's & Sunray,Ward
+E05013527,North Acton,Ward
+E05013497,Barnhill,Ward
+E05013526,Lady Margaret,Ward
+E05013630,Burnt Oak,Ward
+E05013619,Heston West,Ward
+E05013886,Endlebury,Ward
+E05014109,St Martin's,Ward
+E05014027,Wandsworth Common,Ward
+E05013728,New Cross Gate,Ward
+E05013709,Mildmay,Ward
+E05013705,Hillrise,Ward
+E05011244,Goodmayes,Ward
+E05013644,High Barnet,Ward
+E05013910,East Ham South,Ward
+E05009321,Bromley North,Ward
+E05013581,West Drayton,Ward
+E05013616,Hanworth Village,Ward
+E05009391,Chelsea Riverside,Ward
+E05011482,Shirley North,Ward
+E05011254,Wanstead Park,Ward
+E05014012,Falconbrook,Ward
+E05013918,Plaistow North,Ward
+E05013794,Church Street,Ward
+E05013882,Cann Hall,Ward
+E05013738,Fulham Reach,Ward
+E05011485,South Norwood,Ward
+E05013745,Parsons Green & Sandford,Ward
+E05013932,Coombe Hill,Ward
+E05013699,Bunhill,Ward
+E05011236,Bridge,Ward
+E05011470,New Addington North,Ward
+E05013894,Larkswood,Ward
+E05013620,Hounslow Central,Ward
+E05014116,Streatham Wells,Ward
+E05013531,Northolt Mandeville,Ward
+E05013610,Chiswick Homefields,Ward
+E05014018,St Mary's,Ward
+E05013568,Harefield Village,Ward
+E05013676,Bush Hill Park,Ward
+E05013717,Catford South,Ward
+E05013741,Hammersmith Broadway,Ward
+E05013560,Stanmore,Ward
+E05013670,South Hampstead,Ward
+E05014009,Balham,Ward
+E05013664,Kentish Town South,Ward
+E05014020,South Balham,Ward
+E05013972,Hacton,Ward
+E05013578,Ruislip Manor,Ward
+E05013589,Fortis Green,Ward
+E05013604,White Hart Lane,Ward
+E05013643,Hendon,Ward
+E05013735,Brook Green,Ward
+E05011220,Blackfen & Lamorbey,Ward
+E05014073,Blackheath Westcombe,Ward
+E05013566,Colham & Cowley,Ward
+E05013977,Marshalls & Rise Park,Ward
+E05011462,Addiscombe East,Ward
+E05013686,New Southgate,Ward
+E05013532,Northolt West End,Ward
+E05013732,Telegraph Hill,Ward
+E05014104,Herne Hill & Loughborough Junction,Ward
+E05013613,Feltham North,Ward
+E05013563,West Harrow,Ward
+E05013758,Cheam,Ward
+E05013688,Palmers Green,Ward
+E05013703,Finsbury Park,Ward
+E05014078,Eltham Park & Progress,Ward
+E05009403,Royal Hospital,Ward
+E05013606,Bedfont,Ward
+E05013770,Wallington North,Ward
+E05014085,Middle Park & Horn Park,Ward
+E05013677,Carterhatch,Ward
+E05013940,New Malden Village,Ward
+E05009318,Blackwall & Cubitt Town,Ward
+E05011473,Norbury Park,Ward
+E05014107,Myatt's Fields,Ward
+E05013924,Stratford,Ward
+E05014097,Brixton Rush Common,Ward
+E05013696,Winchmore Hill,Ward
+E05014088,Plumstead Common,Ward
+E05013622,Hounslow Heath,Ward
+E05013507,Queens Park,Ward
+E05013799,Little Venice,Ward
+E05013748,Shepherd's Bush Green,Ward
+E05013651,Woodhouse,Ward
+E05013968,Cranham,Ward
+E05013808,West End,Ward
+E05013789,Twickenham Riverside,Ward
+E05013583,Yeading,Ward
+E05013778,Hampton,Ward
+E05013689,Ponders End,Ward
+E05013761,St Helier East,Ward
+E05013822,Ravensbury,Ward
+E05013803,Pimlico South,Ward
+E05013937,Kingston Gate,Ward
+E05014095,Brixton Acre Lane,Ward
+E05011105,Newington,Ward
+E05009404,St. Helen's,Ward
+E05009379,King's Park,Ward
+E05013673,Bowes,Ward
+E05013909,East Ham,Ward
+E05009399,Notting Dale,Ward
+E05013785,St Margarets & North Twickenham,Ward
+E05013621,Hounslow East,Ward
+E05013809,Westbourne,Ward
+E05013976,Hylands & Harrow Lodge,Ward
+E05013691,Southbury,Ward
+E05013674,Brimsdown,Ward
+E05014090,Thamesmead Moorings,Ward
+E05013519,Dormers Wells,Ward
+E05013939,Motspur Park & Old Malden East,Ward
+E05013773,Worcester Park South,Ward
+E05014058,Chadwell Heath,Ward
+E05009325,Lansbury,Ward
+E05013582,Wood End,Ward
+E05014029,West Hill,Ward
+E05013638,Edgwarebury,Ward
+E05013537,Southall Broadway,Ward
+E05013746,Ravenscourt,Ward
+E05014081,Greenwich Park,Ward
+E05013515,Wembley Hill,Ward
+E05013499,Cricklewood & Mapesbury,Ward
+E05013944,Surbiton Hill,Ward
+E05013528,North Greenford,Ward
+E05011467,Crystal Palace & Upper Norwood,Ward
+E05014028,Wandsworth Town,Ward
+E05013727,Lewisham Central,Ward
+E05011097,Champion Hill,Ward
+E05011237,Chadwell,Ward
+E05013760,North Cheam,Ward
+E05013919,Plaistow South,Ward
+E05009368,Cazenove,Ward
+E05013715,Blackheath,Ward
+E05013921,Plashet,Ward
+E05013557,Rayners Lane,Ward
+E05011101,Dulwich Wood,Ward
+E05013791,Whitton,Ward
+E05009369,Clissold,Ward
+E05009332,Shadwell,Ward
+E05013781,Heathfield,Ward
+E05011471,New Addington South,Ward
+E05013897,Leytonstone,Ward
+E05013690,Ridgeway,Ward
+E05013766,Sutton North,Ward
+E05013693,Town,Ward
+E05013536,South Acton,Ward
+E05013888,Grove Green,Ward
+E05009322,Bromley South,Ward
+E05013922,Royal Albert,Ward
+E05013718,Crofton Park,Ward
+E05009402,Redcliffe,Ward
+E05013587,Bruce Castle,Ward
+E05013975,Heaton,Ward
+E05009384,Stamford Hill West,Ward
+E05013817,Lavender Fields,Ward
+E05013516,Wembley Park,Ward
+E05011465,Broad Green,Ward
+E05011110,Peckham,Ward
+E05014091,West Thamesmead,Ward
+E05013579,South Ruislip,Ward
+E05013762,St Helier West,Ward
+E05014086,"Mottingham, Coldharbour & New Eltham",Ward
+E05011466,Coulsdon Town,Ward
+E05011483,Shirley South,Ward
+E05013588,Crouch End,Ward
+E05013672,Arnos Grove,Ward
+E05013998,Hayes & Coney Hall,Ward
+E05009397,Holland,Ward
+E05013825,Village,Ward
+E05013914,Green Street West,Ward
+E05013768,Sutton West & East Cheam,Ward
+E05013719,Deptford,Ward
+E05013646,Totteridge & Woodside,Ward
+E05013797,Knightsbridge & Belgravia,Ward
+E05013523,Greenford Broadway,Ward
+E05011252,South Woodford,Ward
+E05014014,Lavender,Ward
+E05009336,Whitechapel,Ward
+E05013769,The Wrythe,Ward
+E05014030,West Putney,Ward
+E05013678,Cockfosters,Ward
+E05013641,Garden Suburb,Ward
+E05009389,Brompton & Hans Town,Ward
+E05011102,Faraday,Ward
+E05014080,Greenwich Creekside,Ward
+E05013893,Hoe Street,Ward
+E05011241,Cranbrook,Ward
+E05014015,Nine Elms,Ward
+E05011217,Barnehurst,Ward
+E05013518,Central Greenford,Ward
+E05014119,West Dulwich,Ward
+E05013784,North Richmond,Ward
+E05013575,Northwood Hills,Ward
+E05013541,Walpole,Ward
+E05013648,West Finchley,Ward
+E05013602,Tottenham Hale,Ward
+E05013585,Alexandra Park,Ward
+E05013740,Grove,Ward
+E05014071,Whalebone,Ward
+E05013708,Laycock,Ward
+E05013754,Beddington,Ward
+E05011106,North Bermondsey,Ward
+E05011112,Rotherhithe,Ward
+E05014025,Trinity,Ward
+E05014105,Kennington,Ward
+E05013521,Ealing Common,Ward
+E05009372,Hackney Central,Ward
+E05009367,Brownswood,Ward
+E05013520,Ealing Broadway,Ward
+E05013694,Upper Edmonton,Ward
+E05013504,Kingsbury,Ward
+E05011103,Goose Green,Ward
+E05014067,Parsloes,Ward
+E05013790,West Twickenham,Ward
+E05011245,Hainault,Ward
+E05013815,Graveney,Ward
+E05013826,Wandle,Ward
+E05013813,Cricket Green,Ward
+E05014083,Kidbrooke Park,Ward
+E05013911,Forest Gate North,Ward
+E05013730,Rushey Green,Ward
+E05013675,Bullsmoor,Ward
+E05013986,Upminster,Ward
+E05011226,Falconwood & Welling,Ward
+E05014065,Mayesbrook,Ward
+E05014062,Goresbrook,Ward
+E05014068,Thames View,Ward
+E05013737,Coningham,Ward
+E05013795,Harrow Road,Ward
+E05013749,Walham Green,Ward
+E05013890,Hatch Lane & Highams Park North,Ward
+E05013917,Maryland,Ward
+E05014001,Orpington,Ward
+E05011464,Bensham Manor,Ward
+E05013640,Friern Barnet,Ward
+E05013666,King's Cross,Ward
+E05013599,South Tottenham,Ward
+E05013896,Leyton,Ward
+E05013663,Kentish Town North,Ward
+E05014024,Tooting Broadway,Ward
+E05013793,Bayswater,Ward
+E05014096,Brixton North,Ward
+E05011474,Old Coulsdon,Ward
+E05013514,Wembley Central,Ward
+E05014064,Longbridge,Ward
+E05013645,Mill Hill,Ward
+E05009392,Colville,Ward
+E05013829,Wimbledon Town & Dundonald,Ward
+E05011095,Borough & Bankside,Ward
+E05013605,Woodside,Ward
+E05013751,West Kensington,Ward
+E05013615,Hanworth Park,Ward
+E05014102,Clapham Town,Ward
+E05013695,Whitewebbs,Ward
